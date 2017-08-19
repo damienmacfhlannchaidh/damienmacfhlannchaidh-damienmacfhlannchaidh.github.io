@@ -22,7 +22,7 @@ pinterest_username: "*"
 flickr_username: "*"
 github_username:  "damienmacfhlannchaidh"
 feed_icon: rss
-email: "fhlannchaidh@icloud.com"
+email: "macfhlannchaidh@icloud.com"
 
 plugins: [jekyll-paginate]
 
