@@ -1,0 +1,9 @@
+---
+sitemap:
+  exclude: true
+---
+# robotstxt.org/
+User-Agent: *
+Disallow:
+
+Sitemap: https://www.damienmacfhlannchaidh.com/sitemap.xml

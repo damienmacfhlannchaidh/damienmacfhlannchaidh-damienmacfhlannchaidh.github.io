@@ -1,0 +1,7 @@
+	Damien Mac Fhlannchaidh
+    Contact: damien dot glancy macfhlannchaidh at icloud dot com dot com
+
+/* SITE */
+  Last Update: 2017-08-19 17:55:50 +0100
+  Generator: Jekyll v3.5.2 (http://jekyllrb.com)
+  IDE: Atom (https://atom.io)
