@@ -25,5 +25,3 @@ I then choose a “Sound” action and used “Ping”. Select the “Automatica
 Now, I get a quiet ping sound every time the method was hit. In this case, every time a save operation was triggered on a `NSManagedContext`. Everyone around you can tell you’re debugging!
 
 Debugging is all about feedback, and now I can use my ears as well as my eyes. Try it out, it might very well work for you too!
-
-[This post on medium](https://medium.com/@dglancy/debugging-using-sound-31bec4daaec7)
