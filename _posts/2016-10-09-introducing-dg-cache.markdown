@@ -26,7 +26,7 @@ You don’t have to interact with Core Data directly in any way.
 
 **Installation**
 
-You can grab the component and installation instructions from [GitHub](https://github.com/dglancy/CoreDataObjectCache).
+You can grab the component and installation instructions from [GitHub](https://github.com/damienmacfhlannchaidh/CoreDataObjectCache).
 
 **Using the cache**
 
